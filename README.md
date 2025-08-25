@@ -35,10 +35,16 @@ That way, others may reuse or build upon them if they wish.
 
 ---
 
+## Work in Progress / Release Notes
+
+I am publishing files **while I’m actively building the printer**. Not all parts or documents will be available at once, and designs may change as I test and iterate. The repository will be updated **incrementally!** If something is missing, it’s either not ready yet or still being validated. **Please re-check for updates** before printing critical parts.
+
+---
+
 ## Inspiration & Credits
 
 - [Voron Design – Switchwire](https://github.com/VoronDesign/Voron-Switchwire)  
-- [Enderwire](https://github.com/boubounokefalos/Ender_SW)  
+- [Enderwire Release 2](https://github.com/boubounokefalos/Ender_SW)  
 - Creality CR-6 SE  
 
 ---
