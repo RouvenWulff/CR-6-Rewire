@@ -1,6 +1,8 @@
 # CR-6 Rewire Project
 
-![CR-6 Rewire Logo](./assets/logo.png)
+<img src="./Assets/logo.png">
+
+![CR-6 Rewire Logo](./Assets/logo.png)
 
 ---
 
