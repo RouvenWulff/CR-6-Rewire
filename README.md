@@ -9,14 +9,16 @@
 **CR-6 Rewire** is a personal modification project for the **Creality CR-6 SE** 3D printer.  
 It is inspired by the **Voron Switchwire** and its derivative, the **Enderwire**, but adapted for the CR-6 SE platform.  
 
-This is **not a full printer conversion**, but rather a collection of modifications and adaptations that reuse ideas and parts from the Switchwire/Enderwire projects.  
+This is **not a full printer conversion**, but rather a collection of modifications and adaptations that reuse ideas and parts from the Switchwire/Enderwire projects.
+
 Some components will be slightly modified or redesigned to fit the CR-6 SE.
 
 ---
 
 ## Motivation
 
-This project is something I am doing **purely for myself and my sister** to create a functional and reliable printer.  
+This project is something I am doing **purely for myself and my sister** to create a functional and reliable printer.
+
 **I cannot and will not invest a large amount of time into documentation, support, or development.**
 
 However, since I am **using resources from the open-source community**, I want to give back by making my modifications available – even if only in a basic and incomplete form.  
