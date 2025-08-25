@@ -13,6 +13,10 @@ This is **not a full printer conversion**, but rather a collection of modificati
 
 Some components will be slightly modified or redesigned to fit the CR-6 SE.
 
+**Toolhead:** This build uses the **Dragon Burner** toolhead by *chirpy2605* (originally for Voron V0), adapted/ported for the CR-6 SE.
+
+This repository only contains the **files relevant to my specific modification**: parts configured for the **Phaetus Rapido** hotend in combination with the **Sherpa Mini** extruder. Other variants are intentionally omitted.
+
 ---
 
 ## Motivation
@@ -44,7 +48,9 @@ I am publishing files **while I’m actively building the printer**. Not all par
 ## Inspiration & Credits
 
 - [Voron Design – Switchwire](https://github.com/VoronDesign/Voron-Switchwire)  
-- [Enderwire Release 2](https://github.com/boubounokefalos/Ender_SW)  
+- [Enderwire Release 2](https://github.com/boubounokefalos/Ender_SW)
+- [Dragon Burner toolhead by chirpy2605 (Voron V0)](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
+- [Annex Engineering – Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - Creality CR-6 SE  
 
 ---
