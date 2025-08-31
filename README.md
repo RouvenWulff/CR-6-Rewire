@@ -48,7 +48,7 @@ I am publishing files **while I’m actively building the printer**. Not all par
 ## Inspiration & Credits
 
 - [Voron Design – Switchwire](https://github.com/VoronDesign/Voron-Switchwire)  
-- [Enderwire Release 2](https://github.com/boubounokefalos/Ender_SW)
+- [boubounokefalos - Enderwire Release 2](https://github.com/boubounokefalos/Ender_SW)
 - [chirpy2605 - Dragon Burner Toolhead](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 - [Annex Engineering – Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Charlie Scheidecker - Cartographer X-Carriage](https://www.printables.com/model/1217807-switchwire-x-carriage-mount-for-dragon-burner-with)
