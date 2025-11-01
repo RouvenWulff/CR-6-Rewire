@@ -52,6 +52,7 @@ I am publishing files **while I’m actively building the printer**. Not all par
 - [chirpy2605 - Dragon Burner Toolhead](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
 - [Annex Engineering – Sherpa Mini Extruder](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Charlie Scheidecker - Cartographer X-Carriage](https://www.printables.com/model/1217807-switchwire-x-carriage-mount-for-dragon-burner-with)
+- [KayosMaker - CANboard Mount](https://github.com/KayosMaker/CANboard_Mounts/tree/main)
 - Creality CR-6 SE  
 
 ---
